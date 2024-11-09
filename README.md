@@ -1,7 +1,7 @@
 # AutomaticGPT
 A speech-powered assistant based on a custom-made browser-based fully programmatic free-to-use ChatGPT library, and a performant VAD engine.
 
-Made for submission to the 2023 (29th) provincial youth informatics contest.
+Made for submission to the 2023 (29th) provincial youth informatics contest. Finished on 4/2023.
 
 # Credits
 PetterPet (Ho Minh Quan)
